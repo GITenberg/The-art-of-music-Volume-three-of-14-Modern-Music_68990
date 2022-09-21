@@ -1,0 +1,29 @@
+_repo: The-art-of-music-Volume-three-of-14-Modern-Music_68990
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Mason, Daniel Gregory
+    birthdate: 1873
+    deathdate: 1953
+    gutenberg_agent_id: '48933'
+    url: http://www.gutenberg.org/2009/agents/48933
+    wikipedia: https://en.wikipedia.org/wiki/Daniel_Gregory_Mason
+description: ''
+gutenberg_issued: '2022-09-14'
+identifiers:
+  gutenberg: '68990'
+language: en
+pgterms:marc904: https://archive.org/details/artofmusiccompre03maso
+pgterms:marc905: 20210626081341mason
+pgterms:marc906: '1915'
+pgterms:marc907: US
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :National Society of Music,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The art of music, Volume three (of 14): Modern Music'
+url: http://www.gutenberg.org/ebooks/68990
