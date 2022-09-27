@@ -1,5 +1,8 @@
 _repo: The-art-of-music-Volume-three-of-14-Modern-Music_68990
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68990-h/images/cover.jpg
 creator:
   editor:
     agent_name: Mason, Daniel Gregory
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48933
     wikipedia: https://en.wikipedia.org/wiki/Daniel_Gregory_Mason
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68990#The-art-of-music-Volume-three-of-14-Modern-Music
 gutenberg_issued: '2022-09-14'
 identifiers:
   gutenberg: '68990'
